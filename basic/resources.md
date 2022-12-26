@@ -20,3 +20,21 @@ Youtube video:
 Docs:
 - https://microservices.io/patterns/apigateway.html
 - https://www.nginx.com/learn/api-gateway/
+
+
+## Back-of-the-Envelope Estimation/Capacity Planning
+
+A back-of-the-envelope calculation uses estimated or rounded numbers to develop a ballpark figure quickly. The result should be more accurate than a guess, as it involves putting thought to paper, but it will be less accurate than a formal calculation performed using precise numbers and a spreadsheet or calculator.
+
+Youtube Video:
+
+- https://www.youtube.com/watch?v=UC5xf8FbdJc
+
+
+## CQRS(Command Query Responsibility Segregation)
+
+Youtube video:
+- https://www.youtube.com/watch?v=DQ3D_mplIgY
+
+Docs:
+- https://martinfowler.com/bliki/CQRS.html
