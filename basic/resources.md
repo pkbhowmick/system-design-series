@@ -38,3 +38,17 @@ Youtube video:
 
 Docs:
 - https://martinfowler.com/bliki/CQRS.html
+
+## Bloom Filters
+
+- It is a probabilistic data structure designed to answer the set membership question- Is this element present in the Set?
+- It is highly space efficient and does not store the actual items.
+- It can tell very quickly if an item does not exist in a set or if it may be existing in the Set.
+- However, it cannot tell if an item is definitely present in a Set.
+
+Youtube video:
+- https://www.youtube.com/watch?v=V3pzxngeLqw
+- [Bloom Filters Explained by Example](https://www.youtube.com/watch?v=gBygn3cVP80)
+
+Docs:
+- [What is a Bloom Filter?](https://www.educative.io/answers/what-is-a-bloom-filter)
