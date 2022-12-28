@@ -52,3 +52,8 @@ Youtube video:
 
 Docs:
 - [What is a Bloom Filter?](https://www.educative.io/answers/what-is-a-bloom-filter)
+
+## Interesting Engineering blogs
+
+- [HOW DISCORD STORES BILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-billions-of-messages)
+- [Why Uber Engineering Switched from Postgres to MySQL](https://www.uber.com/blog/postgres-to-mysql-migration/)
