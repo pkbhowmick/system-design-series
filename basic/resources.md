@@ -53,6 +53,13 @@ Youtube video:
 Docs:
 - [What is a Bloom Filter?](https://www.educative.io/answers/what-is-a-bloom-filter)
 
+## Message Queues & PubSub Systems
+
+YouTube Vidoes:
+- [Publish-Subscribe Architecture (Explained by Example)](https://www.youtube.com/watch?v=O1PgqUqZKTA)
+- [What is Kafka and How does it work?](https://www.youtube.com/watch?v=LN_HcJVbySw)
+- [RabbitMQ Crash Course](https://www.youtube.com/watch?v=Cie5v59mrTg)
+
 ## Interesting Engineering blogs
 
 - [HOW DISCORD STORES BILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-billions-of-messages)
