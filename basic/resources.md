@@ -60,6 +60,12 @@ YouTube Vidoes:
 - [What is Kafka and How does it work?](https://www.youtube.com/watch?v=LN_HcJVbySw)
 - [RabbitMQ Crash Course](https://www.youtube.com/watch?v=Cie5v59mrTg)
 
+## Rate limiting & Algorithms
+
+- [4 Rate Limit Algorithms Every Developer Should Know](https://betterprogramming.pub/4-rate-limit-algorithms-every-developer-should-know-7472cb482f48)
+- [design-api-rate-limiter](https://www.enjoyalgorithms.com/blog/design-api-rate-limiter)
+
+
 ## Interesting Engineering blogs
 
 - [HOW DISCORD STORES BILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-billions-of-messages)
